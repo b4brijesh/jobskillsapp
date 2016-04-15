@@ -5,7 +5,7 @@ $(document).ready(function(){
     var lis=$("li").size();
     $.ajax({
       type:'post',
-      url:'file/search.php',
+      url:'search.php',
       data:$('form').serialize(),
       success: function(data){
         var json=$.parseJSON(data);
