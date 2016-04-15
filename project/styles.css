@@ -1,0 +1,15 @@
+body{
+  margin-top: 60px;
+}
+#job{
+  width: 100%;
+}
+.list-group-item{
+  min-height: 40px;
+  max-height: 40px;
+}
+.nav{
+  min-height: 200px;
+  max-height: 200px;
+  overflow-y: scroll;
+}
