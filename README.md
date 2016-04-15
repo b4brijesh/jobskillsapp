@@ -13,7 +13,7 @@ This project can be developed in many ways to make the job-skill prediction more
 
 ## Sample Skill Reccomendation Cases
 
-![alt tag](http://imgur.com/6jmJ7KB)
+![alt tag](http://i.imgur.com/dRqDX9v.png)
 ![alt tag](http://imgur.com/caoHWAt)
 ![alt tag](http://imgur.com/caoHWAt)
 ![alt tag](http://imgur.com/dRqDX9v)
