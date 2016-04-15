@@ -1,1 +1,1 @@
-web: php -S 0.0.0.0:$PORT project/index.php
+web: php -S 0.0.0.0:$PORT project/index.html
